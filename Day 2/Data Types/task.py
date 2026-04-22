@@ -1,0 +1,8 @@
+print("Hello"[4])
+print("Hello"[2])
+print("Hello"[3])
+print("Hello"[0])
+print("Hello"[1])
+print("123" + "456")
+print(123 + 456)
+print(int("123") + (int("456")))
